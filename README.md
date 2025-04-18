@@ -1,2 +1,2 @@
 # guanabara
- primeiro repositório versionado 
+ primeiro repositório do curso de Git e Github
